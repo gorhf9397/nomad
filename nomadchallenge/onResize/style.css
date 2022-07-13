@@ -1,0 +1,13 @@
+body {
+    font-family: sans-serif;
+}
+
+.first {
+    background-color: bisque;
+}
+.second {
+    background-color: orange;
+}
+.third {
+    background-color: greenyellow;
+}
